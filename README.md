@@ -23,7 +23,9 @@ Este projeto está em **desenvolvimento contínuo**: vou fazer melhorias aos pou
 
 ---
 
-🧪 Exemplo de uso
+## 🧪 Exemplo de uso
+
+```txt
 Digite um número:
 10
 Digite a operação:
@@ -31,6 +33,7 @@ Digite a operação:
 Digite o segundo número:
 5
 10 + 5 = 15
+
 
 ⚠️ Limitações atuais
 
@@ -41,6 +44,8 @@ int.Parse pode gerar erro se o usuário digitar letras
 Divisão por zero pode quebrar o programa
 
 Não há repetição (o programa encerra após um cálculo)
+
+
 
 🛠️ Próximas melhorias (Roadmap)
 
