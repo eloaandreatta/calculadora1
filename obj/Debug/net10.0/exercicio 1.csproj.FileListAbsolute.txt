@@ -1,0 +1,14 @@
+C:\Users\Power\exercicio 1\bin\Debug\net10.0\exercicio 1.exe
+C:\Users\Power\exercicio 1\bin\Debug\net10.0\exercicio 1.deps.json
+C:\Users\Power\exercicio 1\bin\Debug\net10.0\exercicio 1.runtimeconfig.json
+C:\Users\Power\exercicio 1\bin\Debug\net10.0\exercicio 1.dll
+C:\Users\Power\exercicio 1\bin\Debug\net10.0\exercicio 1.pdb
+C:\Users\Power\exercicio 1\obj\Debug\net10.0\exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Power\exercicio 1\obj\Debug\net10.0\exercicio 1.AssemblyInfoInputs.cache
+C:\Users\Power\exercicio 1\obj\Debug\net10.0\exercicio 1.AssemblyInfo.cs
+C:\Users\Power\exercicio 1\obj\Debug\net10.0\exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Power\exercicio 1\obj\Debug\net10.0\exercicio 1.dll
+C:\Users\Power\exercicio 1\obj\Debug\net10.0\refint\exercicio 1.dll
+C:\Users\Power\exercicio 1\obj\Debug\net10.0\exercicio 1.pdb
+C:\Users\Power\exercicio 1\obj\Debug\net10.0\exercicio 1.genruntimeconfig.cache
+C:\Users\Power\exercicio 1\obj\Debug\net10.0\ref\exercicio 1.dll
