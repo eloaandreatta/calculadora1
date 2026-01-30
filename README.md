@@ -25,7 +25,6 @@ Este projeto está em **desenvolvimento contínuo**: vou fazer melhorias aos pou
 
 ## 🧪 Exemplo de uso
 
-```txt
 Digite um número:
 10
 Digite a operação:
@@ -34,8 +33,9 @@ Digite o segundo número:
 5
 10 + 5 = 15
 
+---
 
-⚠️ Limitações atuais
+## ⚠️ Limitações atuais
 
 Só aceita números inteiros (ex: 5 / 2 resulta em 2, divisão inteira)
 
@@ -45,9 +45,9 @@ Divisão por zero pode quebrar o programa
 
 Não há repetição (o programa encerra após um cálculo)
 
+---
 
-
-🛠️ Próximas melhorias (Roadmap)
+## 🛠️ Próximas melhorias (Roadmap)
 
 As melhorias serão feitas por etapas, mantendo o projeto evolutivo:
 
@@ -84,8 +84,9 @@ Etapa 4 — Estrutura mais profissional
  Testes unitários (xUnit)
 
  Logs e tratamento de exceções
+---
 
-📌 Status do projeto
+## 📌 Status do projeto
 
 Em desenvolvimento / aprendizado
 A ideia é manter commits frequentes mostrando a evolução do código.
